@@ -7,16 +7,16 @@
 
 #หน้า Recycle_view ใช้ Recycle_view
 
-![alt text](https://o.remove.bg/uploads/c6b787c1-309c-44e4-af66-fa81dddd0f2f/item.PNG)
+![alt text](https://s3-ap-southeast-1.amazonaws.com/img-in-th/a261524ec696c43549f7b074212d445e.png)
 
 #หน้า Detail_Recycle_view ใช้ Recycle_view
 
-![alt text](https://o.remove.bg/uploads/70b5a481-0223-49c0-b2e5-899c052205b7/detail.PNG)
+![alt text](https://s3-ap-southeast-1.amazonaws.com/img-in-th/d33d787e0cc44b88c77a24af6dc203eb.png)
 
 #หน้า Chart ใช้ Chart
 
-![alt text](https://o.remove.bg/uploads/6472acc0-9ad4-4d90-abdb-a2690c2c49ce/4.PNG)
+![alt text](https://s3-ap-southeast-1.amazonaws.com/img-in-th/ec4e0d84677e76fe0cc2e6475d4f5f20.png)
 
 #หน้า RealtimeDatabase ใช้ RealtimeDatabase
 
-![alt text](https://o.remove.bg/uploads/86047a42-5561-4bf6-bca0-493292926370/5.PNG)
+![alt text](https://s3-ap-southeast-1.amazonaws.com/img-in-th/cfde6c8c8a43016b3035c115e1ed3a18.png)
